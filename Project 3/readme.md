@@ -4,4 +4,5 @@
 #### It will take one hour to complete.
 
 # Screenshot 
-![](./output.png)
+
+![](./Output.png)
